@@ -34,7 +34,12 @@ for i in range(60):
     t.forward(100)
     t.left(90)
     t.forward(100)
-    t.left(5)
+    t.left(90)
+    t.right(5)
+turtle.clearscreen()
+import turtle
+from turtle import *
+t = Turtle()
 
 
 
